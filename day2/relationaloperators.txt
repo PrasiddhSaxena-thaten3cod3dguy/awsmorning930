@@ -1,0 +1,8 @@
+--> Relational Operators
+
+ > -> Greater than
+ < -> Less than
+ >= --> greater than equal to 
+ <= --> Less than equal to
+ == --> Equal to 
+ != --> Not equal to 

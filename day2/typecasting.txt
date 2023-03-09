@@ -1,0 +1,1 @@
+TypeCasting --> COnvert the data from one data type to another

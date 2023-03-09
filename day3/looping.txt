@@ -1,0 +1,47 @@
+Looping / Flow Control Statements / Iterative Nature :- It is technique used to avoid code repetition and to solve same task over and over agin till
+given condition.
+
+1. for 
+2. while 
+
+
+---> Lazy Functions and Eager Functions:- 
+
+Lazy Function will send the data processing request at once whereas eager function sends the data one by one instantly it recieves
+
+Eg:- for (lazy)
+    while (eager)
+
+
+--> For 
+
+2 ways to play with for loop 
+
+1. Lists, Strings 
+
+Syntax:
+for <variablename of iterator> in <list/string>:
+    //Code Block Goes Here 
+
+
+
+2. Normal Method 
+
+for <variablename of iterator> in range(value):
+    //Code Block Goes Here
+
+---> While Loop 
+
+Initializer 
+
+condition 
+
+updater (counter updater)
+
+        ---> We need to define manually
+
+Syntax:
+
+while (condition):
+    //Code Block Goes Here 
+    //Updater

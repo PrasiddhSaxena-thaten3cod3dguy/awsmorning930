@@ -1,0 +1,29 @@
+Conndition:- Rules,needs to be satisfied,Decisions 
+
+1. if
+2. if-else
+3. if-elif-else
+4. Nested if
+
+1. if :- The condition provided is true then it will execute else it will be skipped.
+
+Syntax:-
+
+if (condition):
+   //Code Block
+
+Next Line out code.
+
+
+2. if - else :- The condition provided is true then execute if block otherwise it is going to execute else block.
+
+3. if-elif-else :- The if condition passed  will execute if block if it fails it is going to check for another condition written in elif block elif condition passes execute elif block if fails execute else blocks 
+
+Syntax: 
+
+if (condition):
+   // Code Block Goes Here
+elif (condition):
+   //Code Block for elif goes here 
+else:
+   //Code Block For else Goes Here 

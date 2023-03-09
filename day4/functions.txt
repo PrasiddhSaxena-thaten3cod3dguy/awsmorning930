@@ -1,0 +1,36 @@
+#Functional Programming
+
+---> To Solve Problems We require functions 
+---> When it is same as normal Programming
+---> Functions are reusuable in nature .  (KEY POINT)
+---> We can create our own data type 
+
+---> 2 Types of functions cat
+1. Pre Built ( in - built functions):- Functions that comes along with the programming language itself. Like print(), len() etc.
+2. User-Defined Functions :- The programmers are going to create functions. 
+
+---> User -Defined functions
+
+There are 4 Types
+
+1. No Argument No return Value
+2. No Argument But Return Value
+3. Argument but no return Value
+4. Argument and return value 
+
+---> Argument:- Values / Parameters bu which the function can recieve dynamic inputs 
+---> Return Value:- When Your function is done with the process it has generated o/p so the value generated if required later in the program can be retrieved with the help of return value. 
+
+---> How to Work with functions in python 
+
+We need to define the functions 
+
+def <func name>(Argument):
+    //Code Block Goes Here
+
+1. No Argument No return Value
+
+
+2. No Argument But Return Value
+
+3. Argument but no return Value

@@ -1,0 +1,29 @@
+unary operator
+
+Single Operand and single operator
+EG:- 
+myvariable=5
+myvariable+=1000
+
++=
+-=
+*=
+/=
+//=
+%=
+
+binary operator
+2 operands and single operator
+
++ --> add
+- --> subract
+* --> Multiply
+/ --> Divide
+// --> floor division
+%  --> Modulus (Remainder)
+** --> Power
+
+
+tertiary operator
+
+Condition ? a:b
